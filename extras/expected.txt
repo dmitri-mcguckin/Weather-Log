@@ -1,0 +1,1572 @@
+                                 -- Data Report --
+
+Time range:	        1480906175 - 1480950515
+Number of entries:        8075
+----------------------------------------------------------------------
+TEMPERATURE
+Min temperature:         -73.1 C
+Max temperature:          10.2 C
+
+Top 1% temperatures (>= 9.4):
+Timestamp: 1480947842
+Temperature: 9.4 C
+Windspeed: 10.16 m/s
+
+Timestamp: 1480947802
+Temperature: 9.4 C
+Windspeed: 11.58 m/s
+
+Timestamp: 1480947841
+Temperature: 9.6 C
+Windspeed: 10.01 m/s
+
+Timestamp: 1480947806
+Temperature: 9.6 C
+Windspeed: 12.23 m/s
+
+Timestamp: 1480947832
+Temperature: 9.9 C
+Windspeed: 10.71 m/s
+
+Timestamp: 1480947829
+Temperature: 10 C
+Windspeed: 11.54 m/s
+
+Timestamp: 1480947811
+Temperature: 10 C
+Windspeed: 11.26 m/s
+
+Timestamp: 1480947825
+Temperature: 10.2 C
+Windspeed: 11.53 m/s
+
+
+Bottom 1% temperatures (<= -72.3):
+Timestamp: 1480919805
+Temperature: -73.1 C
+Windspeed: 14.85 m/s
+
+Timestamp: 1480919797
+Temperature: -73.1 C
+Windspeed: 15.56 m/s
+
+Timestamp: 1480919814
+Temperature: -73 C
+Windspeed: 15.15 m/s
+
+Timestamp: 1480919793
+Temperature: -73 C
+Windspeed: 14.71 m/s
+
+Timestamp: 1480919817
+Temperature: -72.9 C
+Windspeed: 14.25 m/s
+
+Timestamp: 1480919791
+Temperature: -72.8 C
+Windspeed: 14.02 m/s
+
+Timestamp: 1480919787
+Temperature: -72.4 C
+Windspeed: 14.71 m/s
+
+Timestamp: 1480919262
+Temperature: -72.4 C
+Windspeed: 17.57 m/s
+
+----------------------------------------------------------------------
+WINDSPEED
+Min windspeed:               0 m/s
+Max windspeed:           26.82 m/s
+
+Top 1% windspeeds (>= 26.56):
+Timestamp: 1480937571
+Temperature: -18.8 C
+Windspeed: 26.56 m/s
+
+Timestamp: 1480918744
+Temperature: -64.7 C
+Windspeed: 26.56 m/s
+
+Timestamp: 1480937591
+Temperature: -17.5 C
+Windspeed: 26.57 m/s
+
+Timestamp: 1480913960
+Temperature: -34.2 C
+Windspeed: 26.57 m/s
+
+Timestamp: 1480938018
+Temperature: -19.2 C
+Windspeed: 26.58 m/s
+
+Timestamp: 1480916426
+Temperature: -39.4 C
+Windspeed: 26.59 m/s
+
+Timestamp: 1480914313
+Temperature: -29.3 C
+Windspeed: 26.59 m/s
+
+Timestamp: 1480916759
+Temperature: -53 C
+Windspeed: 26.6 m/s
+
+Timestamp: 1480913814
+Temperature: -37.2 C
+Windspeed: 26.6 m/s
+
+Timestamp: 1480913927
+Temperature: -35.5 C
+Windspeed: 26.61 m/s
+
+Timestamp: 1480938074
+Temperature: -16.9 C
+Windspeed: 26.62 m/s
+
+Timestamp: 1480937738
+Temperature: -14.8 C
+Windspeed: 26.62 m/s
+
+Timestamp: 1480913686
+Temperature: -32.6 C
+Windspeed: 26.62 m/s
+
+Timestamp: 1480937884
+Temperature: -13.9 C
+Windspeed: 26.63 m/s
+
+Timestamp: 1480937751
+Temperature: -14.3 C
+Windspeed: 26.63 m/s
+
+Timestamp: 1480916384
+Temperature: -41.4 C
+Windspeed: 26.64 m/s
+
+Timestamp: 1480913884
+Temperature: -36.8 C
+Windspeed: 26.65 m/s
+
+Timestamp: 1480937822
+Temperature: -12 C
+Windspeed: 26.66 m/s
+
+Timestamp: 1480916413
+Temperature: -39.7 C
+Windspeed: 26.66 m/s
+
+Timestamp: 1480913638
+Temperature: -33.1 C
+Windspeed: 26.66 m/s
+
+Timestamp: 1480938024
+Temperature: -18.8 C
+Windspeed: 26.67 m/s
+
+Timestamp: 1480916494
+Temperature: -43.8 C
+Windspeed: 26.68 m/s
+
+Timestamp: 1480915948
+Temperature: -38.1 C
+Windspeed: 26.68 m/s
+
+Timestamp: 1480916765
+Temperature: -53 C
+Windspeed: 26.69 m/s
+
+Timestamp: 1480915930
+Temperature: -39.2 C
+Windspeed: 26.69 m/s
+
+Timestamp: 1480915967
+Temperature: -38.2 C
+Windspeed: 26.71 m/s
+
+Timestamp: 1480913874
+Temperature: -37.4 C
+Windspeed: 26.72 m/s
+
+Timestamp: 1480913663
+Temperature: -33.3 C
+Windspeed: 26.73 m/s
+
+Timestamp: 1480937811
+Temperature: -12.6 C
+Windspeed: 26.74 m/s
+
+Timestamp: 1480937509
+Temperature: -21.7 C
+Windspeed: 26.74 m/s
+
+Timestamp: 1480916793
+Temperature: -54.3 C
+Windspeed: 26.74 m/s
+
+Timestamp: 1480938012
+Temperature: -19.5 C
+Windspeed: 26.75 m/s
+
+Timestamp: 1480937886
+Temperature: -13.9 C
+Windspeed: 26.75 m/s
+
+Timestamp: 1480916746
+Temperature: -52.3 C
+Windspeed: 26.76 m/s
+
+Timestamp: 1480938015
+Temperature: -19.5 C
+Windspeed: 26.77 m/s
+
+Timestamp: 1480938063
+Temperature: -17.5 C
+Windspeed: 26.78 m/s
+
+Timestamp: 1480916528
+Temperature: -42.8 C
+Windspeed: 26.78 m/s
+
+Timestamp: 1480916246
+Temperature: -42.9 C
+Windspeed: 26.79 m/s
+
+Timestamp: 1480937557
+Temperature: -19.5 C
+Windspeed: 26.8 m/s
+
+Timestamp: 1480913612
+Temperature: -33.6 C
+Windspeed: 26.8 m/s
+
+Timestamp: 1480938099
+Temperature: -17 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480938095
+Temperature: -16.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480938090
+Temperature: -16.6 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480938065
+Temperature: -17.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480938055
+Temperature: -17.7 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480938047
+Temperature: -17.8 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480938017
+Temperature: -19.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937904
+Temperature: -14.6 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937897
+Temperature: -14.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937892
+Temperature: -13.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937878
+Temperature: -13.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937864
+Temperature: -13.6 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937861
+Temperature: -13.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937839
+Temperature: -12.8 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937837
+Temperature: -12.5 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937830
+Temperature: -12.1 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937820
+Temperature: -12 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937817
+Temperature: -11.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937802
+Temperature: -12.8 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937796
+Temperature: -13.1 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937788
+Temperature: -13.1 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937780
+Temperature: -13.1 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937768
+Temperature: -13.7 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937749
+Temperature: -14.6 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937740
+Temperature: -14.6 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937734
+Temperature: -15.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937731
+Temperature: -15.7 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937587
+Temperature: -17.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937582
+Temperature: -17.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937574
+Temperature: -18.6 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937518
+Temperature: -21.8 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937504
+Temperature: -21.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937500
+Temperature: -21.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937499
+Temperature: -21.2 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480937496
+Temperature: -20.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480918878
+Temperature: -68.1 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480918877
+Temperature: -68 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480918782
+Temperature: -64.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480918780
+Temperature: -64.5 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480918689
+Temperature: -64.8 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480918675
+Temperature: -64.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480918671
+Temperature: -65 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480918664
+Temperature: -65 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480918658
+Temperature: -65.2 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480918632
+Temperature: -65.5 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916786
+Temperature: -53.8 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916781
+Temperature: -53.8 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916742
+Temperature: -52 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916736
+Temperature: -52 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916645
+Temperature: -47.1 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916639
+Temperature: -46.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916589
+Temperature: -44.6 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916581
+Temperature: -44.2 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916572
+Temperature: -44 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916564
+Temperature: -43.7 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916535
+Temperature: -43.2 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916512
+Temperature: -43.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916506
+Temperature: -43.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916490
+Temperature: -43.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916452
+Temperature: -41 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916443
+Temperature: -40.7 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916435
+Temperature: -39.7 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916430
+Temperature: -39.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916425
+Temperature: -39.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916418
+Temperature: -39.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916406
+Temperature: -40.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916393
+Temperature: -41 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480916389
+Temperature: -41.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480915971
+Temperature: -38.5 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480915964
+Temperature: -38.2 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480915950
+Temperature: -38.2 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480915941
+Temperature: -38.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480915931
+Temperature: -38.8 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480914453
+Temperature: -27.1 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480914444
+Temperature: -27 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480914328
+Temperature: -28.5 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480914296
+Temperature: -29.5 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913952
+Temperature: -34.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913949
+Temperature: -34.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913936
+Temperature: -35.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913934
+Temperature: -35.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913883
+Temperature: -37.2 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913849
+Temperature: -38.8 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913846
+Temperature: -38.6 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913801
+Temperature: -36.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913703
+Temperature: -33 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913700
+Temperature: -32.7 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913693
+Temperature: -32.3 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913689
+Temperature: -32.4 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913668
+Temperature: -32.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913655
+Temperature: -33.8 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913649
+Temperature: -33.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913643
+Temperature: -33.5 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913640
+Temperature: -33.2 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913625
+Temperature: -33.9 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913617
+Temperature: -34 C
+Windspeed: 26.82 m/s
+
+Timestamp: 1480913607
+Temperature: -33.6 C
+Windspeed: 26.82 m/s
+
+
+Bottom 1% windspeeds (<= 0.26):
+Timestamp: 1480948671
+Temperature: 1.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480948667
+Temperature: 0.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480948649
+Temperature: 0 C
+Windspeed: 0 m/s
+
+Timestamp: 1480948559
+Temperature: -4.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480948552
+Temperature: -4.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947449
+Temperature: 0.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947445
+Temperature: -0.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947431
+Temperature: -1.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947422
+Temperature: -1.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947418
+Temperature: -2.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947394
+Temperature: -2.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947393
+Temperature: -2.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947387
+Temperature: -3.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947375
+Temperature: -3.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947330
+Temperature: -3.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947231
+Temperature: -4.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947226
+Temperature: -4.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947222
+Temperature: -4.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480947160
+Temperature: -1.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945406
+Temperature: -15.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945404
+Temperature: -15.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945397
+Temperature: -14.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945388
+Temperature: -14.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945382
+Temperature: -14.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945376
+Temperature: -14.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945369
+Temperature: -14.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945360
+Temperature: -13.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945334
+Temperature: -11.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945323
+Temperature: -11.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945303
+Temperature: -10.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945302
+Temperature: -10.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945289
+Temperature: -11.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945233
+Temperature: -15.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945230
+Temperature: -15.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945123
+Temperature: -13.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480945114
+Temperature: -13.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480944449
+Temperature: -6.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480944394
+Temperature: -5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480944326
+Temperature: -2.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480944324
+Temperature: -2.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480944308
+Temperature: -2.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480944303
+Temperature: -2.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480943334
+Temperature: -2.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480943328
+Temperature: -3.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480943316
+Temperature: -3.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480934798
+Temperature: -42.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933770
+Temperature: -27.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933764
+Temperature: -27.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933710
+Temperature: -28.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933705
+Temperature: -28.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933701
+Temperature: -28.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933698
+Temperature: -29.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933696
+Temperature: -29.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933687
+Temperature: -29.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933673
+Temperature: -29.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933666
+Temperature: -30.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933664
+Temperature: -30.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933653
+Temperature: -31 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933644
+Temperature: -31.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933636
+Temperature: -31.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933630
+Temperature: -31.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933627
+Temperature: -32 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933507
+Temperature: -30.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933472
+Temperature: -32.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480933457
+Temperature: -34.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480932212
+Temperature: -24.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480932155
+Temperature: -21.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480932123
+Temperature: -20.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480932108
+Temperature: -19.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480932084
+Temperature: -18.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480932075
+Temperature: -18.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480932057
+Temperature: -18.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480932036
+Temperature: -20 C
+Windspeed: 0 m/s
+
+Timestamp: 1480932022
+Temperature: -20.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480932006
+Temperature: -19.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931997
+Temperature: -19.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931988
+Temperature: -19.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931983
+Temperature: -19.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931980
+Temperature: -19 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931975
+Temperature: -19 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931960
+Temperature: -18.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931950
+Temperature: -18 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931943
+Temperature: -17.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931941
+Temperature: -17.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931938
+Temperature: -17.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931877
+Temperature: -14.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931869
+Temperature: -14.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931546
+Temperature: -8.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480930813
+Temperature: -10.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480930791
+Temperature: -9.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480930741
+Temperature: -7.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480930736
+Temperature: -7.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480930732
+Temperature: -8.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480930624
+Temperature: -12.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480929277
+Temperature: -14.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480929242
+Temperature: -15.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480929236
+Temperature: -15.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480929130
+Temperature: -20.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480929123
+Temperature: -20.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480929095
+Temperature: -22.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480929086
+Temperature: -23.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480929041
+Temperature: -23.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480928129
+Temperature: -23.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480928115
+Temperature: -22.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480928108
+Temperature: -22.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480928010
+Temperature: -24.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480927979
+Temperature: -23.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480927975
+Temperature: -23.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480927949
+Temperature: -23 C
+Windspeed: 0 m/s
+
+Timestamp: 1480927932
+Temperature: -24.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480927875
+Temperature: -26.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480927873
+Temperature: -27.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480927871
+Temperature: -26.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480924606
+Temperature: -23.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480924140
+Temperature: -42.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480922478
+Temperature: -62.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480922477
+Temperature: -62.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480922468
+Temperature: -62.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480922454
+Temperature: -63.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480922447
+Temperature: -63.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480922442
+Temperature: -63.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480922413
+Temperature: -64.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480922412
+Temperature: -64.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480922388
+Temperature: -65.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480922385
+Temperature: -65.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480922379
+Temperature: -65.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911145
+Temperature: -5.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911139
+Temperature: -5.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911119
+Temperature: -6.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911114
+Temperature: -6.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911110
+Temperature: -6.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911101
+Temperature: -7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911100
+Temperature: -7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911096
+Temperature: -7.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911080
+Temperature: -7.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911034
+Temperature: -6.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911033
+Temperature: -6.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911012
+Temperature: -5.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911006
+Temperature: -5.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480911001
+Temperature: -5.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480910987
+Temperature: -4.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480910981
+Temperature: -4.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480910906
+Temperature: -2.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480909674
+Temperature: -12.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480909654
+Temperature: -12.6 C
+Windspeed: 0 m/s
+
+Timestamp: 1480909652
+Temperature: -12.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480908166
+Temperature: -2.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480908154
+Temperature: -2.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480908136
+Temperature: -1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480908126
+Temperature: -0.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906964
+Temperature: -12.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906956
+Temperature: -12.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906949
+Temperature: -12.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906945
+Temperature: -12.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906941
+Temperature: -13.1 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906929
+Temperature: -13.4 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906426
+Temperature: -17.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906410
+Temperature: -17.2 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906320
+Temperature: -20.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906312
+Temperature: -21.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906309
+Temperature: -21 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906302
+Temperature: -20.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906295
+Temperature: -20.8 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906293
+Temperature: -20.5 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906291
+Temperature: -20.3 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906284
+Temperature: -19.9 C
+Windspeed: 0 m/s
+
+Timestamp: 1480906280
+Temperature: -19.7 C
+Windspeed: 0 m/s
+
+Timestamp: 1480931972
+Temperature: -18.9 C
+Windspeed: 0.01 m/s
+
+Timestamp: 1480931555
+Temperature: -9.6 C
+Windspeed: 0.01 m/s
+
+Timestamp: 1480929115
+Temperature: -21.3 C
+Windspeed: 0.01 m/s
+
+Timestamp: 1480927878
+Temperature: -26.6 C
+Windspeed: 0.01 m/s
+
+Timestamp: 1480922371
+Temperature: -65.4 C
+Windspeed: 0.02 m/s
+
+Timestamp: 1480944447
+Temperature: -6.4 C
+Windspeed: 0.04 m/s
+
+Timestamp: 1480922462
+Temperature: -63 C
+Windspeed: 0.04 m/s
+
+Timestamp: 1480947448
+Temperature: -0.2 C
+Windspeed: 0.05 m/s
+
+Timestamp: 1480932205
+Temperature: -23.8 C
+Windspeed: 0.05 m/s
+
+Timestamp: 1480930775
+Temperature: -9.5 C
+Windspeed: 0.06 m/s
+
+Timestamp: 1480928065
+Temperature: -21.5 C
+Windspeed: 0.06 m/s
+
+Timestamp: 1480909672
+Temperature: -12.4 C
+Windspeed: 0.06 m/s
+
+Timestamp: 1480945236
+Temperature: -14.7 C
+Windspeed: 0.07 m/s
+
+Timestamp: 1480911088
+Temperature: -7.2 C
+Windspeed: 0.07 m/s
+
+Timestamp: 1480911054
+Temperature: -8.2 C
+Windspeed: 0.07 m/s
+
+Timestamp: 1480947277
+Temperature: -5.3 C
+Windspeed: 0.08 m/s
+
+Timestamp: 1480934804
+Temperature: -41.9 C
+Windspeed: 0.08 m/s
+
+Timestamp: 1480932137
+Temperature: -20.7 C
+Windspeed: 0.08 m/s
+
+Timestamp: 1480931961
+Temperature: -18.4 C
+Windspeed: 0.09 m/s
+
+Timestamp: 1480927983
+Temperature: -23.5 C
+Windspeed: 0.09 m/s
+
+Timestamp: 1480927938
+Temperature: -24 C
+Windspeed: 0.09 m/s
+
+Timestamp: 1480944327
+Temperature: -2.6 C
+Windspeed: 0.1 m/s
+
+Timestamp: 1480933685
+Temperature: -29.7 C
+Windspeed: 0.1 m/s
+
+Timestamp: 1480932117
+Temperature: -20 C
+Windspeed: 0.1 m/s
+
+Timestamp: 1480929106
+Temperature: -21.8 C
+Windspeed: 0.1 m/s
+
+Timestamp: 1480922383
+Temperature: -66 C
+Windspeed: 0.1 m/s
+
+Timestamp: 1480933468
+Temperature: -33 C
+Windspeed: 0.11 m/s
+
+Timestamp: 1480947463
+Temperature: 0.5 C
+Windspeed: 0.12 m/s
+
+Timestamp: 1480929224
+Temperature: -15.8 C
+Windspeed: 0.14 m/s
+
+Timestamp: 1480929036
+Temperature: -23.2 C
+Windspeed: 0.14 m/s
+
+Timestamp: 1480928130
+Temperature: -23.4 C
+Windspeed: 0.14 m/s
+
+Timestamp: 1480927969
+Temperature: -23.1 C
+Windspeed: 0.14 m/s
+
+Timestamp: 1480911071
+Temperature: -7.4 C
+Windspeed: 0.14 m/s
+
+Timestamp: 1480948661
+Temperature: 0.2 C
+Windspeed: 0.16 m/s
+
+Timestamp: 1480944319
+Temperature: -2.1 C
+Windspeed: 0.16 m/s
+
+Timestamp: 1480931863
+Temperature: -14.1 C
+Windspeed: 0.16 m/s
+
+Timestamp: 1480911019
+Temperature: -6.2 C
+Windspeed: 0.17 m/s
+
+Timestamp: 1480910901
+Temperature: -2 C
+Windspeed: 0.17 m/s
+
+Timestamp: 1480908145
+Temperature: -1.7 C
+Windspeed: 0.17 m/s
+
+Timestamp: 1480945239
+Temperature: -14.4 C
+Windspeed: 0.18 m/s
+
+Timestamp: 1480945082
+Temperature: -16 C
+Windspeed: 0.18 m/s
+
+Timestamp: 1480931862
+Temperature: -13.7 C
+Windspeed: 0.18 m/s
+
+Timestamp: 1480930241
+Temperature: -7.4 C
+Windspeed: 0.18 m/s
+
+Timestamp: 1480947437
+Temperature: -1.1 C
+Windspeed: 0.19 m/s
+
+Timestamp: 1480929077
+Temperature: -23.6 C
+Windspeed: 0.19 m/s
+
+Timestamp: 1480911046
+Temperature: -7.8 C
+Windspeed: 0.2 m/s
+
+Timestamp: 1480948549
+Temperature: -4.7 C
+Windspeed: 0.21 m/s
+
+Timestamp: 1480933486
+Temperature: -32.2 C
+Windspeed: 0.21 m/s
+
+Timestamp: 1480932148
+Temperature: -21.1 C
+Windspeed: 0.21 m/s
+
+Timestamp: 1480947274
+Temperature: -6 C
+Windspeed: 0.22 m/s
+
+Timestamp: 1480945399
+Temperature: -15.1 C
+Windspeed: 0.22 m/s
+
+Timestamp: 1480931914
+Temperature: -15.6 C
+Windspeed: 0.22 m/s
+
+Timestamp: 1480930635
+Temperature: -12.4 C
+Windspeed: 0.22 m/s
+
+Timestamp: 1480928120
+Temperature: -23.4 C
+Windspeed: 0.22 m/s
+
+Timestamp: 1480947345
+Temperature: -3.2 C
+Windspeed: 0.23 m/s
+
+Timestamp: 1480945398
+Temperature: -14.7 C
+Windspeed: 0.23 m/s
+
+Timestamp: 1480906950
+Temperature: -12.5 C
+Windspeed: 0.23 m/s
+
+Timestamp: 1480933620
+Temperature: -32.4 C
+Windspeed: 0.24 m/s
+
+Timestamp: 1480929271
+Temperature: -14.9 C
+Windspeed: 0.24 m/s
+
+Timestamp: 1480928005
+Temperature: -24.2 C
+Windspeed: 0.24 m/s
+
+Timestamp: 1480906443
+Temperature: -19 C
+Windspeed: 0.24 m/s
+
+Timestamp: 1480906273
+Temperature: -19.1 C
+Windspeed: 0.25 m/s
+
+Timestamp: 1480943339
+Temperature: -2.8 C
+Windspeed: 0.26 m/s
+
+Timestamp: 1480933451
+Temperature: -34.3 C
+Windspeed: 0.26 m/s
+
+Timestamp: 1480932102
+Temperature: -19.7 C
+Windspeed: 0.26 m/s
+
+Timestamp: 1480932030
+Temperature: -20.3 C
+Windspeed: 0.26 m/s
+
+Timestamp: 1480930236
+Temperature: -7.2 C
+Windspeed: 0.26 m/s
+
+Timestamp: 1480922364
+Temperature: -65.3 C
+Windspeed: 0.26 m/s
+

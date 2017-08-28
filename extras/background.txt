@@ -1,0 +1,64 @@
+You slowly open your eyes and stretch out on the bed; the morning sun shining
+through the small window lightens the room, gently waking you from a solid
+sleep. Your room isn't large but who cares? You're on Mars! You were specially
+selected for the advance preparation team. A dream job if there ever was one!
+One of the seven software engineers picked out to be a part of the preparation
+team. It's hard to believe that this whole thing started barely ten months ago
+but here you are. You, and 139 other people, were chosen as the team to get
+Mars ready for the larger colony ship.
+
+Once your vessel obtained Martian orbit, each of the seven groups were dropped
+to their assigned planetary locations. The project planners decided that
+having seven different locations would increase the chances that at least one
+of them would be successful. Of course they didn't describe it that way. They
+said that they wanted colonies spread across the planet so that they would
+have a better chance of monitoring the planet as a whole, rather than just one
+small region. In any case, Boston, Kansas, and Chicago were deployed in the
+northern hemisphere. Alabama, Journey, and Survivor were spread out in the
+souther hemisphere. Your colony, Bon Jovi, was smack dab right on the equator.
+
+It only takes a few minutes for you to go through your morning routine and
+then you are on your way to the common room. A few of the others are already
+milling around and waking up to steaming cups of coffee and trays of
+reconstituted prepackaged food. The breakfast isn't much. Your group is still
+using that prepackaged stuff from the ship since the farming guys are not set
+up yet. Slackers! They promise they will be soon and then you'll be back to
+fresh food!
+
+As you're eating, Director Goliss walks into the room. She looks, as always,
+busy and concerned. She's the director for Bon Jovi colony so the success, or
+failure, of this whole site pretty much rests on her. As far as you've seen
+she is up for the job. Quite capable. Just a little stressed most of the time.
+
+She catches your eye and strides purposefully towards your table. She pulls
+out a chair and sits. "There you are. I was hoping to find you here. How are
+you liking it here so far?" Before you can answer she continues. "Sorry to
+interupt but I've got an important assignment for you. Last night I got a
+message from Van Halen." That is the base back on Earth. Someone thought it
+would be funny to have Bon Jovi, and all of the other "bands", take orders
+from Van Halen. "Van Halen said that they need the surface side weather data
+right away. I need you to get that reporting software done as soon as
+possible."
+
+You nod. That's right. The weather logging software that you've been putting
+off. It's not that it's no fun. It's just that, well, there are so many other
+fun things to be doing here. The logging software is pretty simple. Just
+collect the readings from the various weather stations and create a report.
+
+"Yeah, sorry Director," you reply. "I've just been a bit distracted. But I'll
+get to that program right away. I should be able to finish it in the next day
+or two." Director Goliss smiles at you. "Thanks. I knew you would be able
+to. And when you're done, be sure to send copies to the other
+colonies. Journey was already whining about the software being late."  She
+stands from the table looking just a little more relieved. "Now to get some of
+this recycled breakfast. I can't wait for the farms to start working!"  She
+quickly heads off.
+
+Just a few days after setting up the common room someone had painted a picture
+of a young man and woman on one of the walls. The names "Tommy" and "Gina"
+were written over them and the line "Livin' on a prayer" underneath. "Well,"
+you say quietly to yourself, "I don't know if we're really 'half-way there'
+yet but I know 'we'll make it, I swear'". You finish off your breakfast and
+head to the computer lab. Time to write some software.
+
+

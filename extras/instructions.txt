@@ -1,0 +1,63 @@
+== Programming Assignment ==
+
+For this assignment you will write a program that reads in climate data
+(imagine it is coming from a weather station) and stores that data in a linked
+list. After reading and storing all of the data your program will generate a
+report from the data. 
+
+The objective of this assignment is to learn how to implement a linked list
+and to gain familiarity with using a linked list in solving a problem. Since
+one of the objectives is to learn how to implement a linked list you cannot
+use the STL linked list.
+
+Your program should use good design methodologies so you should have separate
+classes for each of the following:
+
+- datalogger -- This class represents the "business logic" of adding data to
+  the storage. This class also handles filtering out duplicate data items (see
+  the requirements listed below). This is the only class that weatherlog.cpp
+  knows about and it expects two methods: addData() and printReport().
+- linkedlist -- This class should implement a linked list. This class should
+  be distinct from the datalogger class (although I would expect datalogger to
+  have a data member that is a linkedlist object).
+- weatherdata -- This class encapsulates the weather data (time, temperature,
+  windspeed).
+
+You are welcome to create any additional classes that you need.
+
+Below are the specific external and internal requirements for this
+assignment. Your program will be evaluated based on these requirements.
+
+== External Requirements ==
+
+- The main driver (weatherlog.cpp) will provide a sequence of data
+  readings. The program needs to store these readings. After all of the data
+  is read in, the program must create a report identical to the one in the
+  expected.txt output file.
+- Data with a duplicate timestamp indicates contradictory or inaccurate data
+  and should not be stored (all records with the same timestamp).
+- The report includes:
+  - a line that states the timestamp range
+  - a line that states the number of data entries
+  - a temperature section that contains a detailed report (see below)
+  - a windspeed section that contains a detailed report (see below)
+  - detailed report data:
+    - the minumum value measured
+    - the maximum value measured
+    - a list of all of the readings >= the 99% reading (in order)
+    - a list of all of the readings <= the 1% reading (in order)
+  - see the provided "expected.txt" to see the report format
+
+== Internal Requirements ==
+
+- The program must use the supplied weatherlog.cpp file, unmodified, as the
+  main driver.
+- All of the weather data must be stored in a linked list.
+- The linked list must have three separate "chains". One that keeps the data
+  ordered by timestamp, one that keeps the data ordered by temperature, and
+  one that keeps the data ordered by windspeed.
+- Strings must be stored using char* variables, not std::string.
+- No memory leaks.
+
+
+
